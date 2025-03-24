@@ -87,3 +87,20 @@ Real-time messaging: Using Socket.IO to send and receive messages instantly.
 User activity tracking: Displaying online status, typing indicators, and read receipts.
 
 Message history storage: Storing chat logs in a PostgreSQL database for persistence.
+
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/3f3566b1-6870-406c-b8b3-7dab87780f27)
+
+
+
+![Image](https://github.com/user-attachments/assets/3dfd7acf-6e9a-431a-beea-7173a8b02921)
+
+
+
+![Image](https://github.com/user-attachments/assets/4ecbac88-a21b-404d-98a0-f25d132c54b1)
+
+
+
+![Image](https://github.com/user-attachments/assets/140c31e2-b655-4b2b-a180-8cc3a77aee7f)
